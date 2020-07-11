@@ -1,0 +1,22 @@
+{
+  "name": "qrcode-currency",
+  "version": "1.0.0",
+  "description": "Qrcode.js currency version. It can support wechat.",
+  "main": "qrcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncdhz/qrcode-currency.git"
+  },
+  "keywords": [
+    "qrcode"
+  ],
+  "author": "ncdhz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncdhz/qrcode-currency/issues"
+  },
+  "homepage": "https://github.com/ncdhz/qrcode-currency#readme"
+}
