@@ -1,7 +1,8 @@
 # qrcode-currency
 ## 说明
 本项目是对`qrcode-generator`项目进行了修改，删除了里面的一些功能，增加了其他一些功能，目的是做出web端和小程序端通用二维码生成框架。
-
+## 下载
+可以直接使用 `qrcode.js` 文件，也可以通过 `npm i qrcode-currency` 下载使用。
 ## 使用方法
  1. 配置了解，以下参数为默认值
 
